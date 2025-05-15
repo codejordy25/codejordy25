@@ -2,8 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jordy TSIMBA
 ====================================================================================================================================
 
-##I'm Web Developer in React
-
+🙋🏽‍♂️I'm Web Developer in React
 
 * 🌍  I'm based in Congo Brazzaville
 * ✉️  You can contact me at [jordytsimba11@gmail.com](mailto:jordytsimba11@gmail.com)
